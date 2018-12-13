@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Hello World!");
         new com.java.package1.Square().showDetails();
         System.out.println("Hello world");
+        System.out.println("Hello Again");
+
     }
 }
