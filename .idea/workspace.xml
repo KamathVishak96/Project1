@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04dc4954-ff44-4792-978a-1d9eeb24e2eb" name="Default Changelist" comment="" />
+    <list default="true" id="04dc4954-ff44-4792-978a-1d9eeb24e2eb" name="Default Changelist" comment="Merge branch 'master' into myBranch&#10;&#10;# Conflicts:&#10;#&#9;test2.txt">
+      <change afterPath="$PROJECT_DIR$/0002-newBranch.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0003-myBranch.patch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test1.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/misc.xml" />
     <ignored path=".idea/vcs.xml" />
@@ -22,11 +27,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -54,6 +68,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -63,6 +78,7 @@
         <option value="$PROJECT_DIR$/src/com/java/package1/Square.java" />
         <option value="$PROJECT_DIR$/src/com/java/package1/Main.java" />
         <option value="$PROJECT_DIR$/test1.txt" />
+        <option value="$PROJECT_DIR$/test2.txt" />
       </list>
     </option>
   </component>
@@ -78,7 +94,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -186,12 +212,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544766559710</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge branch 'master' into myBranch&#10;&#10;# Conflicts:&#10;#&#9;test2.txt">
+      <created>1544785401471</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544785401481</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="993" y="24" width="927" height="990" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24858756" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -203,14 +235,14 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32962137" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49943504" weight="0.32962137" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49943504" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4988662" visible="true" weight="0.33853006" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5011338" side_tool="true" weight="0.33853006" />
-      <window_info anchor="bottom" content_ui="combo" id="Version Control" order="9" weight="0.32962137" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49717513" visible="true" weight="0.33853006" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50282484" side_tool="true" weight="0.63808465" />
+      <window_info anchor="bottom" content_ui="combo" id="Version Control" order="9" sideWeight="0.49717513" weight="0.63808465" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -251,7 +283,8 @@
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Merge branch 'master' into myBranch&#10;&#10;# Conflicts:&#10;#&#9;test2.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' into myBranch&#10;&#10;# Conflicts:&#10;#&#9;test2.txt" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/java/package1/Square.java">
@@ -281,8 +314,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
