@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04dc4954-ff44-4792-978a-1d9eeb24e2eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -136,7 +138,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544771954683" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544772189877" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -243,6 +245,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="993" y="24" width="927" height="990" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -250,10 +253,10 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24858756" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24858756" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" content_ui="combo" id="Version Control" visible="true" weight="0.32962137" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.4988662" weight="0.33853006" />
+      <window_info anchor="bottom" content_ui="combo" id="Version Control" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.4988662" visible="true" weight="0.33853006" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5011338" side_tool="true" weight="0.33853006" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,6 +325,9 @@
           <caret lean-forward="true" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java/package1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
